@@ -30,6 +30,7 @@ To start the JATE application, run the command `npm run start` from the root dir
 This project is not open to contributions at this time.
 
 ## Visuals
+![JATE](./screenshot/J-A-T-E.png)
 
 ## License
 This application is covered under the MIT license.
