@@ -15,7 +15,7 @@ JATE (Just Another Text Editor) is a web application that provides a simple and 
 ## Installation
 To install the application, clone the repository and run `npm install` or `npm i` to install the required dependencies.
 
-To install JATE as a desktop app, click the "Install" button within the application or click the install button within the address bar. This will create a desktop icon, allowing you to launch the web app as a standalone application.
+To install JATE as a desktop app, click the "Install" button within the application or click the install button within the address bar.
 
 ## Usage
 To start the JATE application, run the command `npm run start` from the root directory
